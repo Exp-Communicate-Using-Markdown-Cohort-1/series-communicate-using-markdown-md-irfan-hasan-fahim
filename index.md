@@ -1,5 +1,5 @@
 # Hello people
-![Image of boy]([https://octodex.github.com/images/yaktocat.png](https://i0.wp.com/eamonwrites.blog/wp-content/uploads/2023/11/1Cm4MeBnTygSOEC62yg2U.jpg?resize=1024%2C1024&ssl=1)https://i0.wp.com/eamonwrites.blog/wp-content/uploads/2023/11/1Cm4MeBnTygSOEC62yg2U.jpg?resize=1024%2C1024&ssl=1)
+[![91615a55ebee4c64a5a8c924240dbc5e.jpg](https://i.postimg.cc/4xZ6jZFK/91615a55ebee4c64a5a8c924240dbc5e.jpg)](https://postimg.cc/cr9tnqWZ)
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
