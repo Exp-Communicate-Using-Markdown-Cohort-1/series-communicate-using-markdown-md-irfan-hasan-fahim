@@ -1,5 +1,5 @@
 # Hello people
-![Image of Yaktocat](https://i.postimg.cc/4xZ6jZFK/91615a55ebee4c64a5a8c924240dbc5e.jpg)]
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
